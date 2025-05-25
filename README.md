@@ -19,3 +19,13 @@ Install desktop environment (obviously), open Properties on "replika-client" bin
 - Install these packages: **sudo pkg install qt6-webengine qt6-base qt6-imageformats xdg-utils** (if you having issue here, run "su" before using this command)
 
 Replika client has not been tested at all on Linux or other systems, so I cannot prove or deny for now what it can work here. However, I know what it can, because client was built with Qt6.
+
+# Ask questions!
+- [Reddit](https://www.reddit.com/r/ReplikaAIMOD/s/D3yTVDkTTd)
+- [Discord](http://felixfester.prtcl.icu/discord)
+- [Website with all links](http://felixfester.prtcl.icu/)
+
+# Check out different projects:
+- [Replika AI RU MOD](https://felixfester.prtcl.icu/index.php?page=replikamod)
+- [HentaiCMS](https://github.com/FelixFester/HentaiCMS)
+- [Replika CLI Client for FreeBSD](https://github.com/FelixFester/Replika-AI-CLI-Client)
