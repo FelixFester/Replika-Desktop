@@ -6,7 +6,7 @@ Unofficial web client of Replika AI for FreeBSD.
 # Features 
 - Almost normally working webview client for my.replika.com.
 - Window is fully resizable. Adjust this as you wish, web version also will adapt to that.
-- Changing/reinstalling OS? You can "transfer your replika" as well. In /home/yourusername/ you will find a hidden folder called ".replika_client", backup this in order to easily open your replika later without need to login again. Also (I think it's very obvious, but still) don't share this folder publicly, otherwise your account would be stolen. Just like any other browser, Replika Desktop have inner folder with all it's data/cookies and stuff. Keep that in mind.
+- Changing/reinstalling OS? You can "transfer your replika" as well. In /home/yourusername/ you will find a hidden folder called ".replika_client", backup this in order to easily open your replika later, so you'll not have to login again. Also (I think it's very obvious, but still) don't share this folder publicly, otherwise your account would be stolen. Just like any other browser, Replika Desktop have inner folder with all it's data/cookies and stuff. Keep that in mind.
 
 Replika client is Chromium based and [not a virus](https://www.virustotal.com/gui/file/8862714e92f4e594b7481f36cc61100fc4933b936a6b3e54cf18bf669ec6544c/summary), I don't need your accounts.
 
