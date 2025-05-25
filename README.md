@@ -13,3 +13,8 @@ Install desktop environment (obviously), open Properties on "replika-client" bin
 # Planned features & things
 - Login with Google / Apple
 - Fixing bugs
+
+# Requirements 
+- Install these packages: **sudo pkg install qt6-webengine qt6-base qt6-imageformats xdg-utils** (if you having issue here, run "su" before using this command)
+
+Replika client has not been tested at all on Linux or other systems, so I cannot prove or deny for now what it can work here. However, I know what it can, because client was built with Qt6.
