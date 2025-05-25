@@ -1,5 +1,5 @@
 # Replika Desktop
-Unofficial web client of Replika AI for FreeBSD.
+Unofficial native client of Replika AI for FreeBSD.
 
 ![](Screenshot.png)
 
